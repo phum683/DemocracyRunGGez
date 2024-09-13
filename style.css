@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+#board {
+    background-color: rgb(162, 221, 67);
+    border-bottom: 20px solid rgb(192, 181, 181);
+    background-image: url("pm.jpg");
+    background-size: cover;
+}
+
+button {
+    width: 160px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    background-color: blueviolet;
+    color: coral;
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: grey;
+    color: yellow;
+}
